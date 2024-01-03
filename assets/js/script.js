@@ -8,7 +8,7 @@ const elementToggleFunc = function (elem) {
 function downloadcv() {
   console.log("xyi");
   window.open(
-    "https://drive.google.com/file/d/1sILButNpGqQPKGYMS-82-FrkU27JpyJ5/view?usp=sharing"
+    ""
   );
 }
 
